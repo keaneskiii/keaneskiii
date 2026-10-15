@@ -1,1 +1,1 @@
-# developing / badminton / loverboy / biking / alot of sidequest
+# developing / badminton / alot of sidequest
