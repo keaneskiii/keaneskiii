@@ -5,7 +5,7 @@ const CONFIG={
   about:"Hi I'm Keane! I'm a young developer coming from the Philippines. I love exploring technology, and it's history and future. I'd love to work on other projects. I've had a passion of developing programs, and I started when I was G5.",
   pinned:["get-my-aur-installer"],
   languages:[["Golang",75],["C++",90],["HTML/CSS",95],["JS",70]],
-  contact:[["github","https://github.com/keaneskiii"],["email","you@example.com"]]
+  contact:[["github","https://github.com/keaneskiii"],["email","qiyiguojien@gmail.com"]]
 };
 const T=document.getElementById('t');
 const TB=document.getElementById('tb');
